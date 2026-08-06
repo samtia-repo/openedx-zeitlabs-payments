@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "Receipt for %(order_number)s"
+msgstr "إيصال رقم %(order_number)s"
+
+msgid "Payment confirmed"
+msgstr "تم تأكيد الدفع"
+
+msgid "Invoice"
+msgstr "فاتورة"
+
+msgid "Tax no:"
+msgstr "الرقم الضريبي:"
+
+msgid "Name:"
+msgstr "الاسم:"
+
+msgid "Invoice Number:"
+msgstr "رقم الفاتورة:"
+
+msgid "Order Date:"
+msgstr "تاريخ الطلب:"
+
+msgid "Payment Method:"
+msgstr "طريقة الدفع:"
+
+msgid "Order Information"
+msgstr "معلومات الطلب"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Unit Price"
+msgstr "سعر الوحدة"
+
+msgid "Unit Price:"
+msgstr "سعر الوحدة:"
+
+msgid "VAT"
+msgstr "ضريبة القيمة المضافة"
+
+msgid "Total"
+msgstr "الإجمالي"
+
+msgid "Total:"
+msgstr "الإجمالي:"
+
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+msgid "Print Receipt"
+msgstr "طباعة الإيصال"
